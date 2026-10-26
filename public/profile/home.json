@@ -1,5 +1,9 @@
 {
-    "name": "Your Name",
-    "roles": ["a Developer", "a Freelancer"],
-    "status": "Open to building cool things"
+  "name": "Dhiraj Kumar Ram",
+  "roles": [
+    "a MERN Stack Developer",
+    "an Aspiring Software Engineer",
+    "a Java DSA Learner"
+  ],
+  "status": "Open to Opportunities"
 }
