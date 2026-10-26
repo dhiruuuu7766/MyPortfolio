@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayankagarwal09.dev-portfolio)
 
 ## A minimal portfolio template for Developers!
@@ -590,3 +591,23 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 # MyPortfolio
 PORTFOLIO
 >>>>>>> 7f545d017fce10c427ad3846ac936ca770c547ba
+=======
+# My Portfolio
+
+Personal portfolio website built using React and Vite.
+
+## Tech Stack
+- React
+- JavaScript
+- CSS
+
+## Featured Project
+**TravelBandhu** — A travel listing web application.
+
+## Developer
+Dhiraj Kumar Ram
+
+- GitHub: https://github.com/dhiruuuu7766
+- LinkedIn: https://linkedin.com/in/dhiraj-kumarr
+
+>>>>>>> origin/main
